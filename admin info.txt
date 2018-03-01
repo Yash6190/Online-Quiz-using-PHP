@@ -1,0 +1,4 @@
+admin password:awsaf111
+admin email:awsafrahman@google.com
+
+please use this following email and password for admin.

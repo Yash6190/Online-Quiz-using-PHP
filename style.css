@@ -1,0 +1,133 @@
+@charset "utf-8";/*this is not necessary*/
+/* CSS Document */
+*
+{
+	margin:0;
+	padding:0;
+}
+div#wrepp
+{
+	width:1000px;
+	height:100%;
+	margin:0px auto;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color:#FFFFFF;
+	color: #000000;
+}
+div#header
+{
+	background-color:#CCCCCC;
+	float:left;
+	width:1000px;
+	height:301px;
+	margin:0px;
+	padding:0px;
+	background-image:url(image/backgroungimg.jpg);
+}
+div#marque
+{
+	width:1000px;
+	height:20px;
+	float:left;
+	background-color: #EBE9F4;
+}
+div#main
+{
+	width:1000px;
+	height:100%;
+	float:left;
+	background-color: #EBE9F4;
+}
+div#quiz_part
+{
+	width:700px;
+	height:390px;
+	float:left;
+	padding-top: 10px;
+	background-color: #EBE9F4;
+	padding-left: 2px;
+}
+div.contents
+{
+	width:690px;
+	height:380px;
+	float:left;
+	padding-top:10px;
+	padding-left:5px;
+	background-color:#EBE9F6;
+
+}
+
+div.admin
+{
+	width:280px;
+	height:390px;
+	float:left;
+	padding-left:5px;
+	padding-top:10px;
+	background-color:#EBE9F4;
+	overflow: hidden;
+}
+div#footer
+{
+	width:1000px;
+	height:30px;
+	float:left;
+	font-family:"Times New Roman", Times, serif;
+	font-size:12px;
+	color:#FFFFFF;
+	background-color: #6C62F7;
+	padding-top: 5px;
+}
+div#start_quiz
+{
+	width:670px;
+	height:100%;
+	float:left;
+	padding-top:10px;
+	padding-left:25px;
+	background-color:#EBE9F6;
+	font:"Times New Roman", Times, serif;
+	font-size:14px;
+	font-weight:500;
+	
+}
+div#countdown_timer
+{
+	width:280px;
+	height:490px;
+	float:left;
+	padding-left:5px;
+	padding-top:10px;
+	background-color:#EBE9F4;
+
+}
+div#admin_logo
+{
+	width:890px;
+	height:25px;
+	float:left;
+	background-color: #EBE9F4;
+	padding-top: 5px;
+	
+}
+div#sign_out
+{
+	width:110px;
+	height:25px;
+	float:left;
+	background-color: #EBE9F4;
+	padding-top: 5px;
+}
+div#participants
+{
+	width:990px;
+	height:460px;
+	float:left;
+	background-color: #EBE9F4;
+	padding-top: 10px;
+	padding-left: 10px;
+}

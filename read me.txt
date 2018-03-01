@@ -1,0 +1,21 @@
+babu i'll now explain u the total project.
+first in index.php page when user choose his/her course and give 
+his mail id and name,when he click the submit button it directs him to startquiz.php.IN this file 
+desired course module question are generated for user with a cowndown timer.The user's name,
+course and email id that he has submitted in the previous index.php page is stored at info table in quiz database.
+After user finish his xm and click submit,it directs him to course based result php page
+such as php_quiz_result.there the score is being count with the help of 
+the course based database like quiz_html.The information from info table
+is accessed and inserted to a new table called records with the score and date 
+information that is counted in this page.then the score is published at this current
+page.
+The admin has a specific email and password that is given at admin info.txt file.u can
+access the admin page through those following info.The details of all participants will be shown their.
+the admin pass and email are stored at admin table of quiz database.User's input will be
+checked through checklog.php file and if the user's input and table input are similar
+than the admin can accessed the admin page.after signout frm admin page admin can't access
+the admin page without sign in.
+hope u will make it out.
+study the javascript validation.
+BEST OF LUCK
+MUNRAT
